@@ -6,7 +6,7 @@
 
 - **Ph.D., Economics, University of Fribourg (Switzerland)**   
   *Applied Econometrics and Evaluation of Public Policies, Magna Cum Laude*
-   2014–2019 
+  2014–2019 
 
 - **M.S., Economics, University of Marburg (Germany)**  
    2011–2014
