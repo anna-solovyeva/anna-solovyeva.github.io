@@ -1,8 +1,12 @@
-# Anna Solovyeva 
+---
+layout: page
+title: "Anna Solovyeva"
+---
 
 ## Economist & Data Analyst
 
-# Technical Skills: Stata, R, Python, SQL
+### Technical Skills  
+Stata, R, Python, SQL
 
 ## Education
 
@@ -16,8 +20,8 @@
 - **B.Sc. in Economics**  
   Russian State University for the Humanities — 2007–2011
 
-
 ## Work Experience
+
 - **Research Scientist**  
   NORC at the University of Chicago *(July 2018 – Dec 2025)*
 
@@ -33,8 +37,6 @@
 - **Intern**  
   UN Economic Commission for Europe *(Sept – Nov 2012)*
 
-
-
 ## Projects
-- To be added
 
+- To be added
