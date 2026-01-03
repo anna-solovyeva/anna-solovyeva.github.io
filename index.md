@@ -2,6 +2,8 @@
 
 ### Technical Skills: Stata, R, Python, SQL
 
+**[LinkedIn](https://www.linkedin.com/in/anna-solovyeva-econ/)**
+
 ## Education
 
 - **Ph.D., Economics, University of Fribourg (Switzerland)**   
