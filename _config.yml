@@ -1,4 +1,4 @@
-remote_theme: broccolini/swiss
-theme_color: white
-title: Anna Solovyeva
-description: My CV / Portfolio
+title: "Anna Solovyeva"
+logo: /assets/initials-image.png
+theme: jekyll-theme-minimal
+description: "My CV / Portfolio"
