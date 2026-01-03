@@ -1,7 +1,4 @@
----
-layout: page
-title: "Anna Solovyeva"
----
+# Anna Solovyeva
 
 ## Economist & Data Analyst
 
