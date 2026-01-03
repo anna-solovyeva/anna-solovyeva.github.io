@@ -19,7 +19,7 @@
 - **Research Scientist, NORC at the University of Chicago**  
    July 2018 – Dec 2025
 
-- **Economist / Data Analyst, World Bank **  
+- **Economist / Data Analyst, World Bank**  
   2018, 2025
 
 - **Graduate Research and Teaching Assistant, University of Fribourg**  
