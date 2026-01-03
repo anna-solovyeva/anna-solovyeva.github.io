@@ -4,15 +4,15 @@
 
 ## Education
 
-- **Ph.D., Economics**  
-  University of Fribourg (Switzerland) — 2014–2019  
+- **Ph.D., Economics, University of Fribourg (Switzerland)**   
   *Applied Econometrics and Evaluation of Public Policies, Magna Cum Laude*
+   2014–2019 
 
-- **M.S., Economics**  
-  University of Marburg (Germany) — 2011–2014
+- **M.S., Economics, University of Marburg (Germany)**  
+   2011–2014
 
-- **B.Sc. in Economics**  
-  Russian State University for the Humanities — 2007–2011
+- **B.Sc. in Economics, Russian State University for the Humanities**  
+   2007–2011
 
 ## Work Experience
 
