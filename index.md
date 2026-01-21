@@ -35,4 +35,5 @@
 
 ## Projects
 
-- **Egypt Agri-Food Trade Analysis** — Synthetic control analysis of Egypt’s agri-food exports and imports using UN Comtrade data (Stata, R).
+- **Egypt Agri-Food Trade Analysis**
+  Synthetic control analysis of Egypt’s agri-food exports and imports using UN Comtrade data (Stata, R).
