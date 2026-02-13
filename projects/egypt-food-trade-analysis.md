@@ -6,10 +6,10 @@ permalink: /projects/egypt-food-trade-analysis/
 
 # Egypt Food Trade Analysis
 
-**Role:** Lead Analyst/Economist  
-**Timeframe:** Completed in 2025, with data covering 2014-2024
-**Tools:** Stata, replicated in R
-**Methods:** Trade data analysis, synthetic control methodology  
+**Role:** Lead Analyst/Economist    
+**Timeframe:** Completed in 2025, with data covering 2014-2024  
+**Tools:** Stata, replicated in R  
+**Methods:** Trade data analysis, synthetic control methodology    
 
 ---
 
