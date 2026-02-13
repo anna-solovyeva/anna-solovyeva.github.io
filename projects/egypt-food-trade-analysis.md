@@ -34,4 +34,4 @@ The most compelling evidence of the policy impact emerges in the later implement
 
 ## Deliverables
 - **Report:** Available upon request (restricted distribution due to contractual conditions).
-- **Code:** https://github.com/anna-solovyeva/egypt-food-trade-analysis
+- **Code:** [GitHub repository](https://github.com/anna-solovyeva/egypt-food-trade-analysis)
