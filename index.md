@@ -37,3 +37,6 @@
 
 - <strong><a href="/projects/egypt-food-trade-analysis/" target="_blank" rel="noopener">Egypt Food Trade Analysis</a></strong>   
   Synthetic control analysis of Egypt’s agri-food exports and imports using UN Comtrade data (Stata, R).
+  
+  - **Read Liberia Impact Evaluation**
+  Impact evaluation of an early grade reading program in Liberia using a randomized controlled trial to assess the effects of structured pedagogy on student reading skills.
