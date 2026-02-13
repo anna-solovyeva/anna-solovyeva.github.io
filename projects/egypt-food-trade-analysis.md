@@ -29,7 +29,7 @@ In 2019, Egypt implemented a unified food safety regulatory framework covering t
 - Econometric analysis based on the synthetic control methodology linking trade patterns to the policy change
 
 ## Key Results
-The most compelling evidence of the policy impact emerges in the later implementation period (2023-2024), where treatment effects become substantially positive and increasingly statistically significant. The estimated total effect reaches $1.02 billion in 2024 with statistical significance at the 10% significance level. The 2024 estimate amounts to 15.2% of their total export value in that year.
+Exports show meaningful policy effects emerging in 2023–2024, with treatment estimates turning positive and statistically significant, reaching about $1.02 billion in 2024 (roughly 15% of total exports, significant at the 10% level).Imports exhibit no statistically significant effects throughout the evaluation period; although point estimates are positive and may suggest improved import facilitation, the evidence does not support a causal attribution to the intervention.
 
 
 ## Deliverables
